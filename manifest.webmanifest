@@ -1,0 +1,11 @@
+{
+  "name": "Levantamento Técnico",
+  "short_name": "Levantamento",
+  "description": "Cadastro de equipamentos por disciplina com fotos e relatórios PDF.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f7",
+  "theme_color": "#17212b",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
